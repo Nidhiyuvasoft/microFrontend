@@ -60,7 +60,7 @@
     "serve": "vite preview",
       "dev": "vite",                     
   "preview": "vite preview",          
-  "build": "vite build --sourcemap --outDir build",
+  "build": "vite build",
   "start": "vite preview --port 4028",
   "strip:comments": "node scripts/remove-comments.mjs"
 
